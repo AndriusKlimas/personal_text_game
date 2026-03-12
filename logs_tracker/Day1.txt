@@ -1,0 +1,3 @@
+basic overview of what needs to be done is setup.
+Created a game.py where everything will go.
+May need to change them into different files for each class
